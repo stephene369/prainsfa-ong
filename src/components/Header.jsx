@@ -40,10 +40,10 @@ const Header = () => {
               'Accueil', 
               'À propos', 
               'Axes stratégiques', 
-              'Projets', 
-              'Actualités', 
-              'Ressources',
-              'Partenaires',
+              // 'Projets', 
+              // 'Actualités', 
+              // 'Ressources',
+              // 'Partenaires',
               'Rejoindre',
               'Contact'
             ].map((item) => (
@@ -77,10 +77,10 @@ const Header = () => {
               'Accueil', 
               'À propos', 
               'Axes stratégiques', 
-              'Projets', 
-              'Actualités', 
-              'Ressources',
-              'Partenaires',
+              // 'Projets', 
+              // 'Actualités', 
+              // 'Ressources',
+              // 'Partenaires',
               'Rejoindre',
               'Contact'
             ].map((item) => (

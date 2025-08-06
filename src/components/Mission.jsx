@@ -5,7 +5,7 @@ const Mission = () => {
     { number: '9', label: 'Axes Stratégiques', icon: '🎯' },
     { number: '100+', label: 'Projets Soutenus', icon: '🚀' },
     { number: '50K+', label: 'Bénéficiaires', icon: '👥' },
-    { number: '25+', label: 'Partenaires', icon: '🤝' }
+    // { number: '25+', label: 'Partenaires', icon: '🤝' }
   ];
 
   return (

@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/prainsfa-ong/static/css/main.597b71d6.css",
+    "main.js": "/prainsfa-ong/static/js/main.cfbcb9ff.js",
+    "index.html": "/prainsfa-ong/index.html",
+    "main.597b71d6.css.map": "/prainsfa-ong/static/css/main.597b71d6.css.map",
+    "main.cfbcb9ff.js.map": "/prainsfa-ong/static/js/main.cfbcb9ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.597b71d6.css",
+    "static/js/main.cfbcb9ff.js"
+  ]
+}

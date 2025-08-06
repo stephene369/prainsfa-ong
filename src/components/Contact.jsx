@@ -26,26 +26,26 @@ const Contact = () => {
     {
       icon: '📧',
       title: 'Email',
-      info: 'contact@prainsfa.org',
-      link: 'mailto:contact@prainsfa.org'
+      info: 'prainsfa@gmail.com',
+      link: 'mailto:prainsfa@gmail.com'
     },
     {
       icon: '📱',
       title: 'Téléphone',
-      info: '+225 XX XX XX XX XX',
-      link: 'tel:+225XXXXXXXXXX'
+      info: '+2290167689032',
+      link: 'tel:+2290167689032'
     },
     {
       icon: '📍',
       title: 'Adresse',
-      info: 'Abidjan, Côte d\'Ivoire',
+      info: ' Bénin Abomey-Calavi ',
       link: '#'
     },
     {
       icon: '🌐',
       title: 'Site Web',
-      info: 'www.prainsfa.org',
-      link: 'https://www.prainsfa.org'
+      // info: 'www.prainsfa.org',
+      // link: 'https://www.prainsfa.org'
     }
   ];
 

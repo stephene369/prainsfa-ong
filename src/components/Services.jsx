@@ -21,8 +21,8 @@ const Services = () => {
       color: "from-green-500 to-emerald-500",
       description: "Digitalisation des services de santé",
       points: [
-        "Accès facilité aux dossiers médicaux",
-        "Télémédecine et suivi à distance",
+        // "Accès facilité aux dossiers médicaux",
+        // "Télémédecine et suivi à distance",
         "Formation du personnel de santé aux outils numériques"
       ]
     },
@@ -77,7 +77,7 @@ const Services = () => {
       description: "Participation citoyenne et transparence",
       points: [
         "Plaidoyer pour des politiques publiques inclusives",
-        "Plateformes de Civic Tech",
+        // "Plateformes de Civic Tech",
         "Formation à la cybersécurité et protection des données"
       ]
     },

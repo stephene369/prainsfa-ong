@@ -33,21 +33,21 @@ const About = () => {
       title: "Premiers projets pilotes",
       description: "Lancement de 5 projets dans l'éducation numérique et la santé digitale"
     },
-    {
-      year: "2022",
-      title: "Expansion régionale",
-      description: "Extension des activités dans 3 pays ouest-africains"
-    },
-    {
-      year: "2023",
-      title: "Partenariats stratégiques",
-      description: "Signature d'accords avec 15 institutions et organisations internationales"
-    },
-    {
-      year: "2024",
-      title: "Innovation et croissance",
-      description: "Lancement de nouvelles initiatives en AgriTech et FinTech inclusives"
-    }
+    // {
+    //   year: "2022",
+    //   title: "Expansion régionale",
+    //   description: "Extension des activités dans 3 pays ouest-africains"
+    // },
+    // {
+    //   year: "2023",
+    //   title: "Partenariats stratégiques",
+    //   description: "Signature d'accords avec 15 institutions et organisations internationales"
+    // },
+    // {
+    //   year: "2024",
+    //   title: "Innovation et croissance",
+    //   description: "Lancement de nouvelles initiatives en AgriTech et FinTech inclusives"
+    // }
   ];
 
   return (
@@ -60,8 +60,14 @@ const About = () => {
           </h2>
           <div className="w-24 h-1 bg-gradient-to-r from-primary-500 to-accent-500 mx-auto mb-8"></div>
           <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-            PRAINSFA est une organisation pionnière dans la promotion du numérique inclusif en Afrique, 
-            œuvrant pour une transformation digitale équitable et durable du continent.
+Passerelle de Recherche et Action sur 
+l'inclusion Numérique Sociale  et Financière en Afrique 
+(PRAINSFA) est une association engagée pour une Afrique plus 
+équitable et inclusive grâce au numérique. Nous démocratisons 
+l’accès aux technologies, développons les compétences digitales 
+de tous les publics, et utilisons le numérique comme levier d’impact 
+social. Nous intervenons aussi bien sur l’éducation, l'agriculture, la santé, l'inclusion genre, l'économie circulaire, l'écologie, l’entrepreneuriat, que la recherche, pour construire des écosystèmes numériques durables et ouverts à tous.
+          
           </p>
         </div>
 
@@ -131,7 +137,7 @@ const About = () => {
         </div>
 
         {/* Équipe dirigeante */}
-        <div>
+        {/* <div>
           <h3 className="text-3xl font-bold text-center text-gray-800 mb-12">Équipe Dirigeante</h3>
           <div className="grid md:grid-cols-3 gap-8">
             {team.map((member, index) => (
@@ -156,16 +162,17 @@ const About = () => {
               </div>
             ))}
           </div>
-        </div>
+        </div> */}
+
 
         {/* Chiffres clés */}
         <div className="bg-gradient-to-r from-primary-500 to-accent-500 rounded-2xl p-8 mt-20 text-white text-center">
           <h3 className="text-3xl font-bold mb-8">PRAINSFA en chiffres</h3>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
             {[
-              { number: "50K+", label: "Bénéficiaires" },
-              { number: "100+", label: "Projets réalisés" },
-              { number: "25+", label: "Partenaires" },
+              { number: "1000+", label: "Bénéficiaires" },
+              { number: "15+", label: "Projets réalisés" },
+              // { number: "25+", label: "Partenaires" },
               { number: "8", label: "Pays d'intervention" }
             ].map((stat, index) => (
               <div key={index} className="animate-slide-up" style={{animationDelay: `${index * 0.1}s`}}>
