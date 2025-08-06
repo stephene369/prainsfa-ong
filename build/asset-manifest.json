@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/prainsfa-ong/static/css/main.597b71d6.css",
-    "main.js": "/prainsfa-ong/static/js/main.cfbcb9ff.js",
-    "index.html": "/prainsfa-ong/index.html",
-    "main.597b71d6.css.map": "/prainsfa-ong/static/css/main.597b71d6.css.map",
-    "main.cfbcb9ff.js.map": "/prainsfa-ong/static/js/main.cfbcb9ff.js.map"
+    "main.css": "/static/css/main.597b71d6.css",
+    "main.js": "/static/js/main.9ce4dc4b.js",
+    "index.html": "/index.html",
+    "main.597b71d6.css.map": "/static/css/main.597b71d6.css.map",
+    "main.9ce4dc4b.js.map": "/static/js/main.9ce4dc4b.js.map"
   },
   "entrypoints": [
     "static/css/main.597b71d6.css",
-    "static/js/main.cfbcb9ff.js"
+    "static/js/main.9ce4dc4b.js"
   ]
 }

@@ -1,26 +1,26 @@
 import React from 'react';
 
 const About = () => {
-  const team = [
-    {
-      name: "Dr. Aminata KONE",
-      role: "Directrice Générale",
-      image: "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=300&h=300&fit=crop&crop=face",
-      description: "Experte en transformation digitale avec 15 ans d'expérience en Afrique"
-    },
-    {
-      name: "Prof. Ibrahim DIALLO",
-      role: "Directeur Technique",
-      image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=300&h=300&fit=crop&crop=face",
-      description: "Spécialiste en innovations technologiques et développement durable"
-    },
-    {
-      name: "Fatou TRAORE",
-      role: "Responsable Partenariats",
-      image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=300&h=300&fit=crop&crop=face",
-      description: "Expert en coopération internationale et mobilisation de ressources"
-    }
-  ];
+  // const team = [
+  //   {
+  //     name: "Dr. Aminata KONE",
+  //     role: "Directrice Générale",
+  //     image: "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=300&h=300&fit=crop&crop=face",
+  //     description: "Experte en transformation digitale avec 15 ans d'expérience en Afrique"
+  //   },
+  //   {
+  //     name: "Prof. Ibrahim DIALLO",
+  //     role: "Directeur Technique",
+  //     image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=300&h=300&fit=crop&crop=face",
+  //     description: "Spécialiste en innovations technologiques et développement durable"
+  //   },
+  //   {
+  //     name: "Fatou TRAORE",
+  //     role: "Responsable Partenariats",
+  //     image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=300&h=300&fit=crop&crop=face",
+  //     description: "Expert en coopération internationale et mobilisation de ressources"
+  //   }
+  // ];
 
   const timeline = [
     {
